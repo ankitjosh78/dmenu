@@ -1,3 +1,5 @@
+(My build of dmenu - dynamic menu / run launcher from suckless)
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
